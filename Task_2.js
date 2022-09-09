@@ -1,4 +1,4 @@
-const  countDown = (i) => {
+export const  countDown = (i) => {
     let result = i;
      while (--i > 0) {
        
